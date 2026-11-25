@@ -1,0 +1,233 @@
+{
+  "target": "Cancelou nos 90 dias seguintes à foto",
+  "horizon_days": 90,
+  "train_snapshots": [
+    "2024-06-30",
+    "2024-12-31",
+    "2025-06-30",
+    "2025-09-30"
+  ],
+  "test_snapshots": [
+    "2026-03-31",
+    "2026-06-30"
+  ],
+  "features": [
+    "porte",
+    "plan",
+    "channel",
+    "tenure_months",
+    "mrr",
+    "employees",
+    "annual_revenue_brl",
+    "tickets_90d",
+    "avg_csat_90d",
+    "csat_missing",
+    "late_invoices_180d",
+    "had_expansion",
+    "lifetime_paid"
+  ],
+  "train_rows": 764,
+  "test_rows": 588,
+  "train_positive_rate": 0.058900523560209424,
+  "test_positive_rate": 0.06802721088435375,
+  "test_positives": 40,
+  "companies_in_both_splits": 220,
+  "unseen_company_auc": 0.6796218487394958,
+  "logistic_roc_auc": 0.7726733576642337,
+  "logistic_roc_auc_ci95": [
+    0.6815270095148842,
+    0.8633297080931466
+  ],
+  "logistic_average_precision": 0.48655992078416355,
+  "logistic_brier": 0.045762535726307584,
+  "baseline_brier": 0.06348280588516209,
+  "gradient_boosting_roc_auc": 0.7630474452554744,
+  "gradient_boosting_average_precision": 0.46300215266450206,
+  "rule_roc_auc": 0.6811587591240875,
+  "threshold_selected_on_train": 0.19370451250449253,
+  "test_precision": 0.5,
+  "test_recall": 0.475,
+  "test_f1": 0.48717948717948717,
+  "confusion_matrix": [
+    [
+      529,
+      19
+    ],
+    [
+      21,
+      19
+    ]
+  ],
+  "logistic_importance": [
+    {
+      "feature": "channel",
+      "importance": 0.3564849685633113
+    },
+    {
+      "feature": "porte",
+      "importance": 0.16280968905272836
+    },
+    {
+      "feature": "tickets_90d",
+      "importance": 0.09598839796843066
+    },
+    {
+      "feature": "avg_csat_90d",
+      "importance": 0.09240197734644111
+    },
+    {
+      "feature": "csat_missing",
+      "importance": 0.06138461699051177
+    },
+    {
+      "feature": "had_expansion",
+      "importance": 0.05530115689044428
+    },
+    {
+      "feature": "lifetime_paid",
+      "importance": 0.04291202799885342
+    },
+    {
+      "feature": "tenure_months",
+      "importance": 0.037796403717496936
+    },
+    {
+      "feature": "late_invoices_180d",
+      "importance": 0.03559185876311822
+    },
+    {
+      "feature": "plan",
+      "importance": 0.025033196257015933
+    },
+    {
+      "feature": "annual_revenue_brl",
+      "importance": 0.018993830202200166
+    },
+    {
+      "feature": "mrr",
+      "importance": 0.008240725659385916
+    },
+    {
+      "feature": "employees",
+      "importance": 0.00706115059006188
+    }
+  ],
+  "roc_curve": {
+    "fpr": [
+      0.0,
+      0.0,
+      0.0,
+      0.0036,
+      0.0036,
+      0.0055,
+      0.0055,
+      0.0146,
+      0.0146,
+      0.0219,
+      0.0219,
+      0.0274,
+      0.0274,
+      0.0292,
+      0.0292,
+      0.0766,
+      0.0766,
+      0.0858,
+      0.0858,
+      0.1551,
+      0.1551,
+      0.1642,
+      0.1642,
+      0.1989,
+      0.1989,
+      0.2153,
+      0.2153,
+      0.2336,
+      0.2336,
+      0.2573,
+      0.2573,
+      0.2591,
+      0.2591,
+      0.354,
+      0.354,
+      0.4088,
+      0.4088,
+      0.5347,
+      0.5347,
+      0.5839,
+      0.5839,
+      0.6296,
+      0.6296,
+      0.6332,
+      0.6332,
+      0.6569,
+      0.6569,
+      0.7883,
+      0.7883,
+      0.8212,
+      0.8212,
+      0.8814,
+      0.8814,
+      0.9544,
+      0.9544,
+      1.0
+    ],
+    "tpr": [
+      0.0,
+      0.025,
+      0.2,
+      0.2,
+      0.3,
+      0.3,
+      0.375,
+      0.375,
+      0.4,
+      0.4,
+      0.425,
+      0.425,
+      0.45,
+      0.45,
+      0.475,
+      0.475,
+      0.525,
+      0.525,
+      0.55,
+      0.55,
+      0.575,
+      0.575,
+      0.6,
+      0.6,
+      0.625,
+      0.625,
+      0.65,
+      0.65,
+      0.675,
+      0.675,
+      0.7,
+      0.7,
+      0.725,
+      0.725,
+      0.75,
+      0.75,
+      0.775,
+      0.775,
+      0.8,
+      0.8,
+      0.825,
+      0.825,
+      0.85,
+      0.85,
+      0.875,
+      0.875,
+      0.9,
+      0.9,
+      0.925,
+      0.925,
+      0.95,
+      0.95,
+      0.975,
+      0.975,
+      1.0,
+      1.0
+    ]
+  }
+}
