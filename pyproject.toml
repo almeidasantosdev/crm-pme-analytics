@@ -1,0 +1,22 @@
+[project]
+name = "crm-pme-analytics"
+version = "1.0.0"
+description = "Analytics de CRM para PME com base fictícia"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+extend-exclude = ["data/raw", "data/warehouse", "notebooks", "outputs"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+
+[tool.ruff.lint.per-file-ignores]
+"app/**/*.py" = ["E402"]
+"analysis/churn_model.py" = ["E402"]
+"analysis/report.py" = ["E402"]
