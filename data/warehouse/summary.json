@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "period_start": "2023-01-01",
+  "period_end": "2026-10-31",
+  "vendor_name": "Nexora",
+  "note": "Base 100% fictícia gerada por data/generate.py.",
+  "rows": {
+    "params": 1,
+    "companies": 6763,
+    "contacts": 10746,
+    "campaigns": 368,
+    "leads": 6763,
+    "opportunities": 1142,
+    "opportunity_stages": 3203,
+    "subscriptions": 477,
+    "mrr_movements": 7851,
+    "invoices": 7983,
+    "churn_events": 150,
+    "support_tickets": 4077
+  }
+}

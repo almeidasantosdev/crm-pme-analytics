@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.streamlit/cache/
+*.egg-info/
+.DS_Store
+data/warehouse/*.wal
+data/warehouse/*.tmp
+outputs/tmp/
+dist/
+build/

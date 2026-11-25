@@ -1,0 +1,151 @@
+churn_id,company_id,date_key,reason_code,reason_name,mrr_lost,tenure_months,porte_code,channel_code
+H00001,C00096,20250801,concorrente,Concorrente,220.28,28,mei,referral
+H00002,C00147,20241001,concorrente,Concorrente,4290.0,17,media,referral
+H00003,C00152,20231001,preco,Preço,249.0,4,micro,partner
+H00004,C00169,20260201,preco,Preço,987.87,33,media,organic
+H00005,C00189,20240101,encerrou_atividade,Encerrou a atividade,449.0,8,micro,referral
+H00006,C00192,20250601,baixo_uso,Baixo uso,449.0,25,micro,organic
+H00007,C00244,20251101,preco,Preço,890.0,30,pequena,partner
+H00008,C00292,20250801,preco,Preço,413.26,27,micro,linkedin_ads
+H00009,C00327,20231001,baixo_uso,Baixo uso,149.0,5,mei,organic
+H00010,C00406,20260101,encerrou_atividade,Encerrou a atividade,271.91,31,mei,organic
+H00011,C00413,20240901,preco,Preço,175.82,15,mei,referral
+H00012,C00424,20250501,baixo_uso,Baixo uso,449.0,22,pequena,partner
+H00013,C00443,20250901,concorrente,Concorrente,592.68,25,micro,google_ads
+H00014,C00445,20240101,encerrou_atividade,Encerrou a atividade,5062.2,6,media,partner
+H00015,C00451,20240601,concorrente,Concorrente,1174.8,11,pequena,organic
+H00016,C00496,20260901,encerrou_atividade,Encerrou a atividade,701.56,38,pequena,google_ads
+H00017,C00538,20250601,baixo_uso,Baixo uso,249.0,23,micro,organic
+H00018,C00553,20260801,preco,Preço,175.82,38,mei,google_ads
+H00019,C00567,20230801,concorrente,Concorrente,890.0,1,pequena,organic
+H00020,C00582,20260101,concorrente,Concorrente,196.68,28,mei,organic
+H00021,C00618,20260401,suporte,Suporte,278.88,32,micro,partner
+H00022,C00621,20240601,produto,Produto,4290.0,8,media,linkedin_ads
+H00023,C00623,20260201,suporte,Suporte,740.85,30,micro,referral
+H00024,C00658,20250801,produto,Produto,1112.5,24,pequena,outbound
+H00025,C00689,20250301,encerrou_atividade,Encerrou a atividade,449.0,18,micro,organic
+H00026,C00700,20250401,encerrou_atividade,Encerrou a atividade,1701.0,20,pequena,referral
+H00027,C00722,20240101,concorrente,Concorrente,449.0,4,micro,organic
+H00028,C00748,20260201,produto,Produto,1701.0,28,pequena,referral
+H00029,C00759,20250401,suporte,Suporte,149.0,18,mei,referral
+H00030,C00839,20250301,concorrente,Concorrente,449.0,18,pequena,partner
+H00031,C00899,20251201,concorrente,Concorrente,175.82,27,mei,linkedin_ads
+H00032,C00975,20240601,concorrente,Concorrente,890.0,8,pequena,organic
+H00033,C00976,20241001,encerrou_atividade,Encerrou a atividade,149.0,12,mei,organic
+H00034,C00989,20241001,preco,Preço,194.22,12,micro,outbound
+H00035,C01003,20231201,preco,Preço,249.0,2,micro,referral
+H00036,C01013,20231201,suporte,Suporte,1890.0,2,pequena,referral
+H00037,C01022,20240901,suporte,Suporte,328.68,11,micro,referral
+H00038,C01126,20241101,preco,Preço,890.0,13,pequena,referral
+H00039,C01138,20240201,baixo_uso,Baixo uso,890.0,3,pequena,referral
+H00040,C01160,20240801,concorrente,Concorrente,249.0,8,micro,referral
+H00041,C01170,20240401,preco,Preço,249.0,4,micro,organic
+H00042,C01195,20240301,concorrente,Concorrente,249.0,3,micro,referral
+H00043,C01216,20240301,preco,Preço,4290.0,3,media,organic
+H00044,C01219,20251101,preco,Preço,945.62,23,pequena,referral
+H00045,C01227,20260301,baixo_uso,Baixo uso,2494.8,26,pequena,partner
+H00046,C01295,20241101,baixo_uso,Baixo uso,249.0,11,mei,referral
+H00047,C01328,20251201,suporte,Suporte,1606.5,24,pequena,event
+H00048,C01349,20240601,encerrou_atividade,Encerrou a atividade,278.88,5,micro,google_ads
+H00049,C01386,20241001,suporte,Suporte,149.0,8,mei,referral
+H00050,C01387,20240801,encerrou_atividade,Encerrou a atividade,249.0,6,mei,outbound
+H00051,C01415,20240301,preco,Preço,890.0,2,pequena,event
+H00052,C01471,20250201,produto,Produto,381.65,12,pequena,organic
+H00053,C01510,20260501,concorrente,Concorrente,249.0,26,micro,referral
+H00054,C01536,20241201,encerrou_atividade,Encerrou a atividade,4290.0,10,media,referral
+H00055,C01592,20260901,concorrente,Concorrente,6703.12,30,media,organic
+H00056,C01618,20260801,produto,Produto,803.4,30,pequena,referral
+H00057,C01653,20250301,baixo_uso,Baixo uso,449.0,13,micro,referral
+H00058,C01681,20240601,concorrente,Concorrente,890.0,3,pequena,organic
+H00059,C01688,20240801,produto,Produto,249.0,6,mei,partner
+H00060,C01710,20240401,baixo_uso,Baixo uso,249.0,2,micro,event
+H00061,C01736,20250101,suporte,Suporte,293.82,10,micro,linkedin_ads
+H00062,C01747,20260101,concorrente,Concorrente,3346.2,21,media,organic
+H00063,C01753,20240801,produto,Produto,1490.0,4,media,referral
+H00064,C01790,20250401,encerrou_atividade,Encerrou a atividade,449.0,12,pequena,partner
+H00065,C01849,20241101,produto,Produto,449.0,6,micro,referral
+H00066,C01896,20261001,suporte,Suporte,529.82,29,micro,event
+H00067,C01899,20250201,preco,Preço,1890.0,9,pequena,partner
+H00068,C01953,20240701,baixo_uso,Baixo uso,149.0,2,mei,organic
+H00069,C01976,20250801,produto,Produto,249.0,15,micro,email
+H00070,C02075,20260601,produto,Produto,890.0,24,pequena,event
+H00071,C02207,20250301,baixo_uso,Baixo uso,149.0,8,mei,email
+H00072,C02216,20240701,baixo_uso,Baixo uso,890.0,1,pequena,referral
+H00073,C02251,20241101,suporte,Suporte,149.0,4,mei,linkedin_ads
+H00074,C02282,20250601,concorrente,Concorrente,890.0,11,pequena,linkedin_ads
+H00075,C02332,20241101,preco,Preço,249.0,4,micro,partner
+H00076,C02435,20251101,produto,Produto,502.88,14,pequena,event
+H00077,C02449,20241001,baixo_uso,Baixo uso,249.0,2,mei,referral
+H00078,C02493,20250801,suporte,Suporte,211.65,11,micro,partner
+H00079,C02568,20250801,suporte,Suporte,196.68,11,mei,organic
+H00080,C02706,20250201,suporte,Suporte,449.0,4,pequena,outbound
+H00081,C02721,20251001,encerrou_atividade,Encerrou a atividade,311.25,12,micro,organic
+H00082,C02726,20250701,preco,Preço,449.0,10,micro,organic
+H00083,C02765,20251201,baixo_uso,Baixo uso,801.0,13,pequena,referral
+H00084,C02800,20250401,concorrente,Concorrente,449.0,6,micro,partner
+H00085,C02839,20250301,preco,Preço,890.0,3,pequena,google_ads
+H00086,C02887,20251101,concorrente,Concorrente,592.68,10,pequena,organic
+H00087,C03023,20250901,produto,Produto,1966.8,8,media,google_ads
+H00088,C03027,20250901,preco,Preço,890.0,8,pequena,linkedin_ads
+H00089,C03074,20250701,concorrente,Concorrente,186.25,7,mei,google_ads
+H00090,C03090,20260701,concorrente,Concorrente,1758.2,17,media,organic
+H00091,C03099,20250301,concorrente,Concorrente,449.0,2,micro,organic
+H00092,C03126,20250401,suporte,Suporte,4290.0,3,media,organic
+H00093,C03158,20250201,concorrente,Concorrente,449.0,1,micro,event
+H00094,C03202,20260101,encerrou_atividade,Encerrou a atividade,149.0,11,mei,organic
+H00095,C03236,20251201,encerrou_atividade,Encerrou a atividade,4290.0,9,media,event
+H00096,C03330,20260901,preco,Preço,1050.2,19,pequena,partner
+H00097,C03343,20250301,preco,Preço,149.0,1,mei,event
+H00098,C03404,20260501,suporte,Suporte,249.0,16,micro,linkedin_ads
+H00099,C03489,20251201,baixo_uso,Baixo uso,1890.0,9,pequena,partner
+H00100,C03518,20260901,baixo_uso,Baixo uso,628.6,18,micro,partner
+H00101,C03588,20250601,encerrou_atividade,Encerrou a atividade,4290.0,2,media,google_ads
+H00102,C03593,20260801,preco,Preço,149.0,15,mei,referral
+H00103,C03628,20250901,preco,Preço,149.0,4,mei,google_ads
+H00104,C03679,20260101,concorrente,Concorrente,249.0,8,micro,outbound
+H00105,C03712,20251001,concorrente,Concorrente,449.0,4,micro,partner
+H00106,C03737,20260101,produto,Produto,1890.0,8,pequena,organic
+H00107,C03754,20260201,preco,Preço,890.0,8,pequena,linkedin_ads
+H00108,C03758,20251101,preco,Preço,249.0,7,micro,referral
+H00109,C03763,20260101,suporte,Suporte,890.0,8,pequena,outbound
+H00110,C03764,20261001,preco,Preço,1890.0,17,pequena,outbound
+H00111,C03795,20260501,suporte,Suporte,890.0,11,pequena,event
+H00112,C03804,20260401,suporte,Suporte,404.1,8,micro,partner
+H00113,C03820,20250801,encerrou_atividade,Encerrou a atividade,890.0,2,pequena,referral
+H00114,C03905,20260901,concorrente,Concorrente,890.0,15,pequena,partner
+H00115,C03930,20251001,baixo_uso,Baixo uso,4290.0,3,media,organic
+H00116,C03935,20260601,baixo_uso,Baixo uso,449.0,12,micro,organic
+H00117,C03972,20260501,suporte,Suporte,149.0,9,mei,referral
+H00118,C03995,20261001,baixo_uso,Baixo uso,890.0,15,pequena,referral
+H00119,C03996,20251101,produto,Produto,449.0,5,micro,partner
+H00120,C04008,20251201,baixo_uso,Baixo uso,890.0,5,pequena,outbound
+H00121,C04020,20261001,preco,Preço,249.0,16,mei,organic
+H00122,C04028,20261001,produto,Produto,890.0,16,pequena,referral
+H00123,C04153,20250901,concorrente,Concorrente,4290.0,1,media,referral
+H00124,C04213,20260701,encerrou_atividade,Encerrou a atividade,890.0,12,pequena,organic
+H00125,C04340,20260701,baixo_uso,Baixo uso,1758.2,9,media,linkedin_ads
+H00126,C04403,20260501,concorrente,Concorrente,1890.0,8,pequena,referral
+H00127,C04415,20260601,baixo_uso,Baixo uso,149.0,7,mei,referral
+H00128,C04432,20260801,baixo_uso,Baixo uso,890.0,10,pequena,referral
+H00129,C04444,20260601,preco,Preço,149.0,8,mei,referral
+H00130,C04476,20260901,produto,Produto,4290.0,11,media,referral
+H00131,C04494,20260901,preco,Preço,249.0,9,micro,google_ads
+H00132,C04522,20260201,produto,Produto,1890.0,4,pequena,organic
+H00133,C04557,20260501,baixo_uso,Baixo uso,449.0,7,micro,partner
+H00134,C04559,20260401,baixo_uso,Baixo uso,4290.0,4,media,referral
+H00135,C04573,20260801,suporte,Suporte,1890.0,8,pequena,organic
+H00136,C04633,20260701,baixo_uso,Baixo uso,449.0,9,micro,referral
+H00137,C04686,20260701,produto,Produto,890.0,7,pequena,referral
+H00138,C04740,20260901,concorrente,Concorrente,219.78,9,mei,organic
+H00139,C04778,20260801,baixo_uso,Baixo uso,249.0,7,micro,linkedin_ads
+H00140,C04819,20260701,produto,Produto,249.0,7,micro,outbound
+H00141,C04888,20260701,preco,Preço,890.0,6,pequena,referral
+H00142,C04902,20260501,suporte,Suporte,4290.0,4,media,event
+H00143,C05072,20260601,preco,Preço,449.0,3,micro,google_ads
+H00144,C05117,20260501,baixo_uso,Baixo uso,1890.0,3,pequena,organic
+H00145,C05169,20260401,concorrente,Concorrente,890.0,3,pequena,referral
+H00146,C05551,20261001,produto,Produto,149.0,5,mei,referral
+H00147,C05622,20260701,encerrou_atividade,Encerrou a atividade,149.0,1,mei,organic
+H00148,C05669,20260901,baixo_uso,Baixo uso,449.0,3,micro,referral
+H00149,C05681,20261001,produto,Produto,249.0,4,micro,partner
+H00150,C05771,20261001,suporte,Suporte,449.0,2,micro,referral
